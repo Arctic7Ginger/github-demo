@@ -1,5 +1,6 @@
 # github-demo
-A simple demo repository to show the basic Git workflow
+A simple website project for
+showing how to use Git and Github together.
 
 ## Introduction
 
