@@ -1,4 +1,4 @@
-Adding new file per lesson.
+A very respectful website.
 
 Using this file instead of simple.html for lesson 49.
 
@@ -9,4 +9,6 @@ Copyright 2025 Git.Training
 # TEAM
 
 	Jason Taylor 	jason@git.training  	@awesomejt
+	
+I'm not sure what will go here, but I'm sure it will be nice.
 	
