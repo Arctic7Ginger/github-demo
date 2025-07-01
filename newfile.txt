@@ -5,3 +5,8 @@ Using this file instead of simple.html for lesson 49.
 An example website.
 
 Copyright 2025 Git.Training
+
+# TEAM
+
+	Jason Taylor 	jason@git.training  	@awesomejt
+	
